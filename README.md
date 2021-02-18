@@ -26,6 +26,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O dev.finances é uma aplicação de controle financeiro, onde é possível cadastrar e excluir transações e ver o saldo de entrada e saída 💰
 
+Visualise e teste a aplicação clicando <a href="https://ernanej.github.io/dev.finance/">aqui</a>.
+
 ## 🔖 Layout
 
 Você pode visualizar o layout do projeto através [desse link](https://www.figma.com/file/7Vu9DzUaCZIV4nibzkjgB4/dev.finance%24-Maratona-Discover). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
